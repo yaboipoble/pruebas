@@ -1,2 +1,2 @@
 # pruebas
-pruebas para probar probadamente
+pruebas para probar probadamente de manera probadiza
